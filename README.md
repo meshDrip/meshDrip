@@ -1,4 +1,10 @@
-### Welcome to my GitHub page!
+<h1>Hello! My name is Terrell Turner.
+☔🔱 
+</h1>
+
+I'm a 30-year old Minneapolitan with an A.A.S. in Software Development. I love web development, game development, and 3D modelling. All of my repositories are built from scratch. Currently, I'm working on tying my backend knowledge (C#/.NET) together with my frontend skills (React) to become a fullstack developer.
+
+From friends and family to clients and employers, I love helping people achieve their goal. I'm not satisfied by doing the bare minimum and I always go out of my way to go above and beyond. 
 
 <!--
 **meshDrip/meshDrip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
