@@ -2,7 +2,7 @@
 ☔🔱 
 </h1>
 
-I'm a 30-year old Minneapolitan with an A.A.S. in Software Development. I love web development, game development, and 3D modelling. All of my repositories are built from scratch. Currently, I'm working on tying my backend knowledge (C#/.NET) together with my frontend skills (React) to become a fullstack developer.
+I'm a 30-year old Minneapolitan with an A.A.S. in Software Development. I love web development, game development, and 3D modelling. All of my repositories are built from scratch. I have experience working with C#/.NET as well as Java.
 
 From friends and family to clients and employers, I love helping people achieve their goal. I'm not satisfied by doing the bare minimum and I always go out of my way to go above and beyond. 
 
